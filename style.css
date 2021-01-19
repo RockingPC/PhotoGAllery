@@ -1,0 +1,28 @@
+.menu{
+    list-style:none;
+    font-family: 'Dancing Script', cursive;
+    position:fixed;
+    top:10px;
+    right:30px;
+    z-index: 10;
+    cursor:pointer;
+}
+.links{
+    float:left;;
+    color:#abfa00;
+    padding-top:5px;
+    padding-left: 33px;
+    padding-right: 25px;
+    padding-bottom:5px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+.links:hover{
+    background-color: #fae100;
+    font-size:25px;
+    text-decoration: underline;
+}
+img{
+    width:200px;
+    height:100px;
+}
